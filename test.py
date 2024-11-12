@@ -5,4 +5,4 @@ def hello_world():
     jp.Hello(a=wp)
     return wp
 
-jp.justpy(hello_world)
+jp.justpy(hello_world,host='0.0.0.0')
